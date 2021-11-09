@@ -9,7 +9,7 @@ This is the code repository for [WebFlow by Example](https://www.packtpub.com/pr
 ## What is this book about?
 Webflow is a modern no-code website-builder that enables you to rapidly design and build production-scale responsive websites. Webflow by Example is a practical, project-based, and beginner-friendly guide to understanding and using Webflow to efficiently build and launch responsive websites from scratch.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Build and customize websites without any code
 * Understand how to approach designing and developing for the modern web
 * Become familiar with the main functionalities of Webflow
