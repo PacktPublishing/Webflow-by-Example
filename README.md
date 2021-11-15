@@ -1,8 +1,8 @@
-# WebFlow by Example
+# Webflow by Example
 
 <a href="https://www.packtpub.com/product/webflow-by-example/9781801075398"><img src="https://static.packt-cdn.com/products/9781801075398/cover/smaller" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [WebFlow by Example](https://www.packtpub.com/product/webflow-by-example/9781801075398), published by Packt.
+This is the code repository for [Webflow by Example](https://www.packtpub.com/product/webflow-by-example/9781801075398), published by Packt.
 
 **Design and build custom-made production-scale responsive websites without coding**
 
