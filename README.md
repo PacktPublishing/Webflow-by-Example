@@ -4,10 +4,10 @@
 
 This is the code repository for [Webflow by Example](https://www.packtpub.com/product/webflow-by-example/9781801075398), published by Packt.
 
-**Design and build custom-made production-scale responsive websites without coding**
+**Design, build, and publish modern websites without writing code**
 
 ## What is this book about?
-Webflow is a modern no-code website-builder that enables you to rapidly design and build production-scale responsive websites. Webflow by Example is a practical, project-based, and beginner-friendly guide to understanding and using Webflow to efficiently build and launch responsive websites from scratch.
+	Webflow is a modern no-code website-builder that enables you to rapidly design and build production-scale responsive websites. Webflow by Example is a practical, project-based, and beginner-friendly guide to understanding and using Webflow to efficiently build and launch responsive websites from scratch.
 
 This book covers the following exciting features: 
 * Build and customize websites without any code
@@ -43,5 +43,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Ali Rushdan Tariq**
-is a Product Designer, Strategist, and award-winning writer with more than 10 years of experience helping startups, scaleups, and large corporations build simple and innovative solutions to complex problems while growing strong design teams. He is passionate about advocating for user-centered design cultures in organizations and in mentoring junior designers. At the time of writing, he designs training and communications solutions for more than two million frontline workers. When not designing, he enjoys traveling (in a non-pandemic-riddled world), photography, cooking, and the occasional video game. He is based in Kitchener, Canada with his wife.
+is a product designer, strategist, and award-winning writer with more than 10 years of experience helping start-ups, scale-ups, and large corporations build simple solutions to complex problems while growing strong design teams. He is passionate about advocating user-centered design cultures in organizations and mentoring junior designers. At the time of writing, he is a Principal Designer and Associate Director of product design at Slalom Build, where he helps organizations design products that make a difference. When not designing, he enjoys traveling (in a non-pandemic-riddled world), photography, cooking, and the occasional video game. He is based in Kitchener, Canada, with his wife and son.
 
