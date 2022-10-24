@@ -45,3 +45,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Ali Rushdan Tariq**
 is a product designer, strategist, and award-winning writer with more than 10 years of experience helping start-ups, scale-ups, and large corporations build simple solutions to complex problems while growing strong design teams. He is passionate about advocating user-centered design cultures in organizations and mentoring junior designers. At the time of writing, he is a Principal Designer and Associate Director of product design at Slalom Build, where he helps organizations design products that make a difference. When not designing, he enjoys traveling (in a non-pandemic-riddled world), photography, cooking, and the occasional video game. He is based in Kitchener, Canada, with his wife and son.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801075398">https://packt.link/free-ebook/9781801075398 </a> </p>
